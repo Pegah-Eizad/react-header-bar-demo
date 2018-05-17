@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import NavigationBar from './components/navigation-bar';
+import NavigationBar from './components/navigation-bar.js';
 import './index.css';
 
 const links = [{
